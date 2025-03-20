@@ -10,7 +10,7 @@ def pripojeni_db():
         connection = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="Fed91+5:A",
+            password="****",
             database="ukoly"
         )
         return connection
